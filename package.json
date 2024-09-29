@@ -1,7 +1,7 @@
 {
-	"name": "swayam",
+	"name": "johanna",
 	"version": "1.0.0",
-	"private": true,
+	"private": false,
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",

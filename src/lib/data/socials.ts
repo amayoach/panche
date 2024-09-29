@@ -10,11 +10,11 @@ type Social = {
 
 const socials: Social = {
     GitHub: {
-        url: "https://github.com/swayam25",
+        url: "",
         icon: RiGithubFill
     },
     LinkedIn: {
-        url: "https://github.com/swayam25",
+        url: "",
         icon: RiLinkedInFill
     },
 }
